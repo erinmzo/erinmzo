@@ -10,6 +10,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zomins)
 
 
-### Velog
+### My Velog
 ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=zomins)
 
+### My Github
+![GitHub followers](https://img.shields.io/github/followers/erinmzo)
