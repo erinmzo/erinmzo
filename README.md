@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Minsoo Cho
+## 👋 Hi, I’m Minsoo Cho from Seoul
 ## 👀 I’m interested in Front-end develope
 ## 🌱 I’m currently learning Front-end development
 ## 📫 How to reach me textign@gmail.com or zomins@naver.com
