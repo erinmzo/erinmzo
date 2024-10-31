@@ -11,11 +11,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erinmzo&layout=compact&count_private=true&theme=gruvbox" />
 
 
-### My Velog
-![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=zomins)
-![블로그 바로가기](https://velog.io/@zomins/posts)
-
-
 ### My Github
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ferinmzo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![GitHub followers](https://img.shields.io/github/followers/erinmzo)
