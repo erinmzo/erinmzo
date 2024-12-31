@@ -18,7 +18,6 @@
 const developer = {
   name: "조민수",
   position: "Frontend Developer",
-  location: "Seoul, Korea",
   interests: ["Web Development", "UI/UX", "Clean Code"],
   currentlyLearning: ["System Design", "Web Performance", "Accessibility"]
 };
