@@ -1,90 +1,133 @@
-# 조민수 (Minsoo Cho) 
-
 <div align="center">
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ferinmzo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
-![GitHub followers](https://img.shields.io/github/followers/erinmzo)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Frontend%20Developer&fontSize=90&animation=fadeIn&desc=Minsoo%20Cho&descSize=30&descAlign=80&descAlignY=70" />
 
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ferinmzo&count_bg=%23C83DCE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+  ![GitHub followers](https://img.shields.io/github/followers/erinmzo?style=flat&color=C83DCE)
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Frontend%20Developer&fontSize=50&animation=fadeIn" />
-</div>
+<br />
 
-## 👋 About Me
-> "사용자 경험을 최우선으로 생각하는 프론트엔드 개발자입니다"
+<h2 align="center">👨‍💻 About Me</h2>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C83DCE&center=true&vCenter=true&random=false&width=500&lines=Frontend+Developer;4%2B+Years+of+Development+Experience;Always+Learning+New+Things" alt="Typing SVG" />
+</div>
 
 ```typescript
-const developer = {
+type TechInterest = 'Web Performance' | 'Clean Architecture' | 'UI/UX Design' | 'Accessibility';
+
+interface Developer {
+  name: string;
+  role: string;
+  location: string;
+  interests: TechInterest[];
+  favouriteQuote: string;
+}
+
+const minsoo: Developer = {
   name: "조민수",
-  position: "Frontend Developer",
-  interests: ["Web Development", "UI/UX", "Clean Code"],
-  currentlyLearning: ["System Design", "Web Performance", "Accessibility"]
+  role: "Frontend Developer",
+  location: "Seoul, Korea",
+  interests: ["Web Performance", "Clean Architecture", "UI/UX Design", "Accessibility"],
+  favouriteQuote: "더 나은 사용자 경험을 위해 끊임없이 고민하는 개발자"
 };
 ```
 
-## 🛠 Tech Stack
+<br/>
 
-### Core
-<div align="left">
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" />
-</div>
+<h2 align="center">🛠 Tech Stack</h2>
 
-### State Management & Data Fetching
-<div align="left">
-  <img src="https://img.shields.io/badge/zustand-402A24?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDQwIDQwIj48L3N2Zz4=&logoColor=white" />
-  <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/react%20query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
-</div>
-
-### Styling
-<div align="left">
-  <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</div>
-
-### Development Tools
-<div align="left">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/react%20router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" />
-</div>
-
-### Design Tools
-<div align="left">
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/xd-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" />
-</div>
-
-## 📊 GitHub Stats
+<details open>
+<summary><b>Core Technologies</b></summary>
+<br/>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erinmzo&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erinmzo&layout=compact&langs_count=8&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs&theme=light" />
+</div>
+</details>
+
+<details open>
+<summary><b>State Management & Data Fetching</b></summary>
+<br/>
+<div align="center">
+  <img src="https://img.shields.io/badge/zustand-402A24?style=for-the-badge&labelColor=402A24&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDQwIDQwIj48L3N2Zz4=" />
+  <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&labelColor=764ABC" />
+  <img src="https://img.shields.io/badge/react%20query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white&labelColor=FF4154" />
+</div>
+</details>
+
+<details open>
+<summary><b>Styling</b></summary>
+<br/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind,css,styledcomponents&theme=light" />
+</div>
+</details>
+
+<details open>
+<summary><b>Development Tools</b></summary>
+<br/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,vercel,supabase&theme=light" />
+</div>
+</details>
+
+<details open>
+<summary><b>Design Tools</b></summary>
+<br/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd&theme=light" />
+</div>
+</details>
+
+<br/>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=erinmzo&show_icons=true&theme=radical&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=erinmzo&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&count_private=true" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erinmzo&theme=tokyonight" alt="GitHub Streak" />
+  <picture>
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=erinmzo&theme=radical&hide_border=true&background=00000000"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=erinmzo&theme=buefy&hide_border=true" />
+  </picture>
 </div>
 
-## 📫 Contact Me
-> 함께 일하고 싶으시다면 연락주세요!
+<div align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=erinmzo&theme=radical&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erinmzo&theme=buefy&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  </picture>
+</div>
 
-<div align="left">
+<br/>
+
+<h2 align="center">📫 Contact Me</h2>
+
+<div align="center">
   <a href="mailto:textign@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
   </a>
   <a href="mailto:zomins@naver.com">
-    <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
+    <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white&labelColor=03C75A" />
   </a>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&text=Let's%20Work%20Together!&fontSize=50&animation=fadeIn&desc=💌%20mail%20to%20textign@gmail.com&descSize=20&descAlign=70&descAlignY=70" />
 </div>
