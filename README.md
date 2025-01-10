@@ -14,7 +14,7 @@
 </div>
 
 ```typescript
-type TechInterest = 'Web Performance' | 'Clean Architecture' | 'UI/UX Design' | 'Accessibility';
+type TechInterest = 'Web Performance' | 'UI/UX Design' | 'Accessibility';
 
 interface Developer {
   name: string;
