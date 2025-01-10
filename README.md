@@ -28,7 +28,7 @@ const minsoo: Developer = {
   name: "조민수",
   role: "Frontend Developer",
   location: "Seoul, Korea",
-  interests: ["Web Performance", "Clean Architecture", "UI/UX Design", "Accessibility"],
+  interests: ["Web Performance", "UI/UX Design", "Accessibility"],
   favouriteQuote: "더 나은 사용자 경험을 위해 끊임없이 고민하는 개발자"
 };
 ```
