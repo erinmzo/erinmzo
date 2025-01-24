@@ -10,7 +10,7 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C83DCE&center=true&vCenter=true&random=false&width=500&lines=Frontend+Developer;4%2B+Years+of+Development+Experience;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C83DCE&center=true&vCenter=true&random=false&width=500&lines=Frontend+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 ```typescript
